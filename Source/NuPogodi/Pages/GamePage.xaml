@@ -1,0 +1,16 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="NuPogodi.Pages.GamePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Landscape"
+    Orientation="Landscape"
+    shell:SystemTray.IsVisible="False">
+    
+    <!--No XAML content is required as the page is rendered entirely with the XNA Framework-->
+
+</phone:PhoneApplicationPage>
